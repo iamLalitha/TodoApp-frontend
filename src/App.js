@@ -21,6 +21,7 @@ function App() {
     <div className="App">
       <div className="container">
         <h1>Todo App</h1>
+     <h4>"Stay organized and conquer your day with our intuitive Todo app"</h4>
         <div className="top">
           <input type="text" 
           placeholder="Add Todos" 
